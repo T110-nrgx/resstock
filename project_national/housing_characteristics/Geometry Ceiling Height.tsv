@@ -1,0 +1,3 @@
+Option=8 ft	Option=9 ft	Option=10 ft	sampling_probability
+1	0	0	1
+# Source: T110-nrgx add: move geometry_average_ceiling_height from Gemetry Building Type RECS (always 8 ft) to a separate "Geometry Ceiling Height"
