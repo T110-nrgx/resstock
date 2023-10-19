@@ -181,15 +181,115 @@ Geometry Floor Area Bin	0-1499
 Geometry Floor Area Bin	1500-2499																										
 Geometry Floor Area Bin	2500-3999																										
 Geometry Floor Area Bin	4000+																										
-Geometry Floor Area	0-499	ResStockArguments	geometry_unit_cfa_bin=0-499	geometry_unit_cfa=auto	geometry_garage_protrusion=0.75																						
-Geometry Floor Area	500-749	ResStockArguments	geometry_unit_cfa_bin=500-749	geometry_unit_cfa=auto	geometry_garage_protrusion=0.75																						
-Geometry Floor Area	750-999	ResStockArguments	geometry_unit_cfa_bin=750-999	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
-Geometry Floor Area	1000-1499	ResStockArguments	geometry_unit_cfa_bin=1000-1499	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
-Geometry Floor Area	1500-1999	ResStockArguments	geometry_unit_cfa_bin=1500-1999	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
-Geometry Floor Area	2000-2499	ResStockArguments	geometry_unit_cfa_bin=2000-2499	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
-Geometry Floor Area	2500-2999	ResStockArguments	geometry_unit_cfa_bin=2500-2999	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
-Geometry Floor Area	3000-3999	ResStockArguments	geometry_unit_cfa_bin=3000-3999	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
-Geometry Floor Area	4000+	ResStockArguments	geometry_unit_cfa_bin=4000+	geometry_unit_cfa=auto	geometry_garage_protrusion=0.5																						
+Geometry Floor Area	0-499	ResStockArguments	geometry_unit_cfa_bin=0-499	geometry_garage_protrusion=0.75																							
+Geometry Floor Area	500-749	ResStockArguments	geometry_unit_cfa_bin=500-749	geometry_garage_protrusion=0.75																							
+Geometry Floor Area	750-999	ResStockArguments	geometry_unit_cfa_bin=750-999	geometry_garage_protrusion=0.5																							
+Geometry Floor Area	1000-1499	ResStockArguments	geometry_unit_cfa_bin=1000-1499	geometry_garage_protrusion=0.5																							
+Geometry Floor Area	1500-1999	ResStockArguments	geometry_unit_cfa_bin=1500-1999	geometry_garage_protrusion=0.5																							
+Geometry Floor Area	2000-2499	ResStockArguments	geometry_unit_cfa_bin=2000-2499	geometry_garage_protrusion=0.5																							
+Geometry Floor Area	2500-2999	ResStockArguments	geometry_unit_cfa_bin=2500-2999	geometry_garage_protrusion=0.5																							
+Geometry Floor Area	3000-3999	ResStockArguments	geometry_unit_cfa_bin=3000-3999	geometry_garage_protrusion=0.5																							
+Geometry Floor Area	4000+	ResStockArguments	geometry_unit_cfa_bin=4000+	geometry_garage_protrusion=0.5																							
+Geometry Actual Floor Area	Auto	ResStockArguments	geometry_unit_cfa=auto																								
+Geometry Actual Floor Area	200	ResStockArguments	geometry_unit_cfa=200																								
+Geometry Actual Floor Area	300	ResStockArguments	geometry_unit_cfa=300																								
+Geometry Actual Floor Area	400	ResStockArguments	geometry_unit_cfa=400																								
+Geometry Actual Floor Area	500	ResStockArguments	geometry_unit_cfa=500																								
+Geometry Actual Floor Area	600	ResStockArguments	geometry_unit_cfa=600																								
+Geometry Actual Floor Area	700	ResStockArguments	geometry_unit_cfa=700																								
+Geometry Actual Floor Area	800	ResStockArguments	geometry_unit_cfa=800																								
+Geometry Actual Floor Area	900	ResStockArguments	geometry_unit_cfa=900																								
+Geometry Actual Floor Area	1000	ResStockArguments	geometry_unit_cfa=1000																								
+Geometry Actual Floor Area	1100	ResStockArguments	geometry_unit_cfa=1100																								
+Geometry Actual Floor Area	1200	ResStockArguments	geometry_unit_cfa=1200																								
+Geometry Actual Floor Area	1300	ResStockArguments	geometry_unit_cfa=1300																								
+Geometry Actual Floor Area	1400	ResStockArguments	geometry_unit_cfa=1400																								
+Geometry Actual Floor Area	1500	ResStockArguments	geometry_unit_cfa=1500																								
+Geometry Actual Floor Area	1600	ResStockArguments	geometry_unit_cfa=1600																								
+Geometry Actual Floor Area	1700	ResStockArguments	geometry_unit_cfa=1700																								
+Geometry Actual Floor Area	1800	ResStockArguments	geometry_unit_cfa=1800																								
+Geometry Actual Floor Area	1900	ResStockArguments	geometry_unit_cfa=1900																								
+Geometry Actual Floor Area	2000	ResStockArguments	geometry_unit_cfa=2000																								
+Geometry Actual Floor Area	2100	ResStockArguments	geometry_unit_cfa=2100																								
+Geometry Actual Floor Area	2200	ResStockArguments	geometry_unit_cfa=2200																								
+Geometry Actual Floor Area	2300	ResStockArguments	geometry_unit_cfa=2300																								
+Geometry Actual Floor Area	2400	ResStockArguments	geometry_unit_cfa=2400																								
+Geometry Actual Floor Area	2500	ResStockArguments	geometry_unit_cfa=2500																								
+Geometry Actual Floor Area	2600	ResStockArguments	geometry_unit_cfa=2600																								
+Geometry Actual Floor Area	2700	ResStockArguments	geometry_unit_cfa=2700																								
+Geometry Actual Floor Area	2800	ResStockArguments	geometry_unit_cfa=2800																								
+Geometry Actual Floor Area	2900	ResStockArguments	geometry_unit_cfa=2900																								
+Geometry Actual Floor Area	3000	ResStockArguments	geometry_unit_cfa=3000																								
+Geometry Actual Floor Area	3100	ResStockArguments	geometry_unit_cfa=3100																								
+Geometry Actual Floor Area	3200	ResStockArguments	geometry_unit_cfa=3200																								
+Geometry Actual Floor Area	3300	ResStockArguments	geometry_unit_cfa=3300																								
+Geometry Actual Floor Area	3400	ResStockArguments	geometry_unit_cfa=3400																								
+Geometry Actual Floor Area	3500	ResStockArguments	geometry_unit_cfa=3500																								
+Geometry Actual Floor Area	3600	ResStockArguments	geometry_unit_cfa=3600																								
+Geometry Actual Floor Area	3700	ResStockArguments	geometry_unit_cfa=3700																								
+Geometry Actual Floor Area	3800	ResStockArguments	geometry_unit_cfa=3800																								
+Geometry Actual Floor Area	3900	ResStockArguments	geometry_unit_cfa=3900																								
+Geometry Actual Floor Area	4000	ResStockArguments	geometry_unit_cfa=4000																								
+Geometry Actual Floor Area	4100	ResStockArguments	geometry_unit_cfa=4100																								
+Geometry Actual Floor Area	4200	ResStockArguments	geometry_unit_cfa=4200																								
+Geometry Actual Floor Area	4300	ResStockArguments	geometry_unit_cfa=4300																								
+Geometry Actual Floor Area	4400	ResStockArguments	geometry_unit_cfa=4400																								
+Geometry Actual Floor Area	4500	ResStockArguments	geometry_unit_cfa=4500																								
+Geometry Actual Floor Area	4600	ResStockArguments	geometry_unit_cfa=4600																								
+Geometry Actual Floor Area	4700	ResStockArguments	geometry_unit_cfa=4700																								
+Geometry Actual Floor Area	4800	ResStockArguments	geometry_unit_cfa=4800																								
+Geometry Actual Floor Area	4900	ResStockArguments	geometry_unit_cfa=4900																								
+Geometry Actual Floor Area	5000	ResStockArguments	geometry_unit_cfa=5000																								
+Geometry Actual Floor Area	5100	ResStockArguments	geometry_unit_cfa=5100																								
+Geometry Actual Floor Area	5200	ResStockArguments	geometry_unit_cfa=5200																								
+Geometry Actual Floor Area	5300	ResStockArguments	geometry_unit_cfa=5300																								
+Geometry Actual Floor Area	5400	ResStockArguments	geometry_unit_cfa=5400																								
+Geometry Actual Floor Area	5500	ResStockArguments	geometry_unit_cfa=5500																								
+Geometry Actual Floor Area	5600	ResStockArguments	geometry_unit_cfa=5600																								
+Geometry Actual Floor Area	5700	ResStockArguments	geometry_unit_cfa=5700																								
+Geometry Actual Floor Area	5800	ResStockArguments	geometry_unit_cfa=5800																								
+Geometry Actual Floor Area	5900	ResStockArguments	geometry_unit_cfa=5900																								
+Geometry Actual Floor Area	6000	ResStockArguments	geometry_unit_cfa=6000																								
+Geometry Actual Floor Area	6100	ResStockArguments	geometry_unit_cfa=6100																								
+Geometry Actual Floor Area	6200	ResStockArguments	geometry_unit_cfa=6200																								
+Geometry Actual Floor Area	6300	ResStockArguments	geometry_unit_cfa=6300																								
+Geometry Actual Floor Area	6400	ResStockArguments	geometry_unit_cfa=6400																								
+Geometry Actual Floor Area	6500	ResStockArguments	geometry_unit_cfa=6500																								
+Geometry Actual Floor Area	6600	ResStockArguments	geometry_unit_cfa=6600																								
+Geometry Actual Floor Area	6700	ResStockArguments	geometry_unit_cfa=6700																								
+Geometry Actual Floor Area	6800	ResStockArguments	geometry_unit_cfa=6800																								
+Geometry Actual Floor Area	6900	ResStockArguments	geometry_unit_cfa=6900																								
+Geometry Actual Floor Area	7000	ResStockArguments	geometry_unit_cfa=7000																								
+Geometry Actual Floor Area	7100	ResStockArguments	geometry_unit_cfa=7100																								
+Geometry Actual Floor Area	7200	ResStockArguments	geometry_unit_cfa=7200																								
+Geometry Actual Floor Area	7300	ResStockArguments	geometry_unit_cfa=7300																								
+Geometry Actual Floor Area	7400	ResStockArguments	geometry_unit_cfa=7400																								
+Geometry Actual Floor Area	7500	ResStockArguments	geometry_unit_cfa=7500																								
+Geometry Actual Floor Area	7600	ResStockArguments	geometry_unit_cfa=7600																								
+Geometry Actual Floor Area	7700	ResStockArguments	geometry_unit_cfa=7700																								
+Geometry Actual Floor Area	7800	ResStockArguments	geometry_unit_cfa=7800																								
+Geometry Actual Floor Area	7900	ResStockArguments	geometry_unit_cfa=7900																								
+Geometry Actual Floor Area	8000	ResStockArguments	geometry_unit_cfa=8000																								
+Geometry Actual Floor Area	8100	ResStockArguments	geometry_unit_cfa=8100																								
+Geometry Actual Floor Area	8200	ResStockArguments	geometry_unit_cfa=8200																								
+Geometry Actual Floor Area	8300	ResStockArguments	geometry_unit_cfa=8300																								
+Geometry Actual Floor Area	8400	ResStockArguments	geometry_unit_cfa=8400																								
+Geometry Actual Floor Area	8500	ResStockArguments	geometry_unit_cfa=8500																								
+Geometry Actual Floor Area	8600	ResStockArguments	geometry_unit_cfa=8600																								
+Geometry Actual Floor Area	8700	ResStockArguments	geometry_unit_cfa=8700																								
+Geometry Actual Floor Area	8800	ResStockArguments	geometry_unit_cfa=8800																								
+Geometry Actual Floor Area	8900	ResStockArguments	geometry_unit_cfa=8900																								
+Geometry Actual Floor Area	9000	ResStockArguments	geometry_unit_cfa=9000																								
+Geometry Actual Floor Area	9100	ResStockArguments	geometry_unit_cfa=9100																								
+Geometry Actual Floor Area	9200	ResStockArguments	geometry_unit_cfa=9200																								
+Geometry Actual Floor Area	9300	ResStockArguments	geometry_unit_cfa=9300																								
+Geometry Actual Floor Area	9400	ResStockArguments	geometry_unit_cfa=9400																								
+Geometry Actual Floor Area	9500	ResStockArguments	geometry_unit_cfa=9500																								
+Geometry Actual Floor Area	9600	ResStockArguments	geometry_unit_cfa=9600																								
+Geometry Actual Floor Area	9700	ResStockArguments	geometry_unit_cfa=9700																								
+Geometry Actual Floor Area	9800	ResStockArguments	geometry_unit_cfa=9800																								
+Geometry Actual Floor Area	9900	ResStockArguments	geometry_unit_cfa=9900																								
+Geometry Actual Floor Area	10000	ResStockArguments	geometry_unit_cfa=10000																								
 Bedrooms	1	ResStockArguments	geometry_unit_num_bedrooms=1	geometry_unit_num_bathrooms=auto																							
 Bedrooms	2	ResStockArguments	geometry_unit_num_bedrooms=2	geometry_unit_num_bathrooms=auto																							
 Bedrooms	3	ResStockArguments	geometry_unit_num_bedrooms=3	geometry_unit_num_bathrooms=auto																							
